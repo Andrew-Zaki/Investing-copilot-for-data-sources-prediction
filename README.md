@@ -2,7 +2,7 @@
 
 # Investing copilot for data sources prediction
 
-## benchmark questions Output:
+## Benchmark questions Output:
 
 ### Output 1:
 ``` json
